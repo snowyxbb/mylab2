@@ -1,0 +1,17 @@
+# Ignore everything because nothing matters more than this one line
+*
+
+# Except the one file that holds the truth of the universe
+!my_favourite_team.txt
+
+# Ignore unnecessary distractions like logs, because we don't make mistakes
+*.log
+
+# Ignore node_modules, because we're not building an entire app here
+node_modules/
+
+# Ignore secrets, but there are no secrets. Just football.
+.env
+
+# Ignore people who don't support our team
+haters/
