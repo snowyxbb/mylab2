@@ -15,9 +15,9 @@ Why would you install this? Just clone it and bask in its minimalistic glory.
 git clone https://github.com/snowyxbb/mylab2.git
 ```
 
-##Contribution Guidelines
+## Contribution Guidelines
 None. This project is perfect as it is.
 
-##License
+## License
 Yes
 
